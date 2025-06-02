@@ -14,36 +14,36 @@
   3- 🌐 Dois servidores web com páginas personalizadas
 
 ## ⚒️ Esturutura do projeto:
-├──ASA 
+├──📂ASA 
 
-  ├──dns
+   ├──📁dns
       
-      ├──db.asa.br
+      └──🗎db.asa.br
       
-      ├──Dockerfile
+      └───🐳Dockerfile
       
-      ├──named.conf.local
-  ├──proxy 
+      └──🗎named.conf.local
+  ├──📁proxy 
 
-      ├──404.html
+      └──🗎404.html
 
-      ├──default.conf
+      └──🗎default.conf
 
-      ├──Dockerfile
+      └──🐳Dockerfile
 
-      ├──index.html
-  ├──web1
+      └──🔗index.html
+  ├──📁web1
 
-      ├──Dockerfile
+      └──🐳Dockerfile
 
-      ├──index.html
-  ├──web2
+      └──🔗index.html
+  ├──📁web2
 
-      ├──Dockerfile
+      └──🐳Dockerfile
 
-      ├──index.html
+      └──🔗index.html
 
-  ├──compose.yml
+  └──🗎compose.yml
   
 
 ## 🐳 Apresentação detalhada do projeto (PDF/PPT):
