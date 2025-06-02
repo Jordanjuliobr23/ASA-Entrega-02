@@ -15,21 +15,34 @@
 
 ## ⚒️ Esturutura do projeto:
 ├──ASA 
+
   ├──dns
+
       ├──db.asa.br
+
       ├──Dockerfile
+
       ├──named.conf.local
   ├──proxy 
+
       ├──404.html
+
       ├──default.conf
+
       ├──Dockerfile
+
       ├──index.html
   ├──web1
+
       ├──Dockerfile
+
       ├──index.html
   ├──web2
+
       ├──Dockerfile
+
       ├──index.html
+
   ├──compose.yml
   
 
