@@ -17,9 +17,12 @@
 ├──ASA 
 
   ├──dns
-      db.asa.br
-      Dockerfile
-      named.conf.local
+      
+      ├──db.asa.br
+      
+      ├──Dockerfile
+      
+      ├──named.conf.local
   ├──proxy 
 
       ├──404.html
