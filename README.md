@@ -47,6 +47,7 @@
   
 
 ## 🐳 Apresentação detalhada do projeto (PDF/PPT):
+https://docs.google.com/presentation/d/1UrREAwQcP31Ux2wrgLV1-aGJlQ9HErXr2JRwwKmUeHM/edit?usp=sharing
 
 ## 🎥 Apresentação do funcionamento em vídeo: 
 
